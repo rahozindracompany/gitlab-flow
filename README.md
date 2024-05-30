@@ -11,9 +11,9 @@ Si quieres contribuir a este proyecto, por favor sigue los siguientes pasos:
 
 2. Simularemos 3 features, para esto hay 3 ramas y deben hacer checkout de acuerdo con su primera letra de su apellido:​
 
-`git checkout feature/grupoA -> A-H​`
-`git checkout feature/grupoB -> I-Q​`
-`git checkout feature/grupoC -> R-Z​`
+- `git checkout feature/grupoA -> A-H​`
+- `git checkout feature/grupoB -> I-Q​`
+- `git checkout feature/grupoC -> R-Z​`
 
 3. Realizar 1 cambio visual.​
 
@@ -21,9 +21,9 @@ Si quieres contribuir a este proyecto, por favor sigue los siguientes pasos:
 
 5. Haz push de tu rama
 
-`git push origin feature/grupoA -> A-H​`
-`git push origin feature/grupoB -> I-Q​`
-`git push origin feature/grupoC -> R-Z​`
+- `git push origin feature/grupoA -> A-H​`
+- `git push origin feature/grupoB -> I-Q​`
+- `git push origin feature/grupoC -> R-Z​`
 
  
 6. Crea un pull request en este repositorio hacia develop: https://github.com/rahozindracompany/gitlab-flow/pulls
